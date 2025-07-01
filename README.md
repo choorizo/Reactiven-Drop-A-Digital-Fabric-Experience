@@ -1,4 +1,4 @@
-# Reactive-Drop-A-Digital-Fabric-Experience
+# Reactive Drop A Digital Fabric Experience
 Projektdokumentation 
 eine Arbeit von Cristina,Fernandez, Laura Khoury, Joris Lustenberger
 
