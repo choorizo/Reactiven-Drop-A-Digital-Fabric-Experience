@@ -85,3 +85,12 @@ Learnings:
 Es hat uns sehr Spass gemacht dieses Projekt zu realisieren und werden es sicher an einem Event von TRACK13 umsetzen.
 
 Cristina Fernandez, Laura Khoury, Joris Lustenberger
+
+
+
+In diesem Link ist die Arbeitsdokumentation inklusiv Bilder, Der Film und das Projektfile.
+https://www.swisstransfer.com/d/86a170b7-cb19-4ae4-925c-27e5271c5c83
+
+
+
+
