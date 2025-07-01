@@ -7,9 +7,9 @@ Reactive Drop – A Digital Fabric Experience
 
 
 Konzeption
-Reactive Drop ist ein interaktives Visual-Projekt, das als performative Erweiterung der Modemarke TRACK13 konzipiert wurde. Ziel war es, ein statisches Designbild (PNG) über einen Beamer auf eine Wand zu projizieren und dieses in Echtzeit auf äußere Einflüsse reagieren zu lassen. Die Reaktion erfolgt über zwei wesentliche Inputs: die Position und Bewegung der Hand im Raum sowie das Frequenzspektrum eines Musikstücks.
+Reactive Drop ist ein interaktives Visual-Projekt, das als performative Erweiterung der Modemarke TRACK13 konzipiert wurde. Ziel war es, ein statisches Designbild (PNG) über einen Beamer auf eine Wand zu projizieren und dieses in Echtzeit auf äussere Einflüsse reagieren zu lassen. Die Reaktion erfolgt über zwei wesentliche Inputs: die Position und Bewegung der Hand im Raum sowie das Frequenzspektrum eines Musikstücks.
 
-Der visuelle Output verbindet organische, fließende Effekte mit konkreten Gestaltungsentscheidungen, die sowohl ästhetisch ansprechend als auch performativ steuerbar sind. So entsteht eine immersive Umgebung, in der Design, Bewegung und Sound verschmelzen.
+Der visuelle Output verbindet organische, fliessende Effekte mit konkreten Gestaltungsentscheidungen, die sowohl ästhetisch ansprechend als auch performativ steuerbar sind. So entsteht eine immersive Umgebung, in der Design, Bewegung und Sound verschmelzen.
 
 Umsetzung & Prozess
 
@@ -31,12 +31,12 @@ Das Projekt wurde vollständig in TouchDesigner umgesetzt. Die Arbeit gliederte 
    - Helligkeitsveränderung über Level TOP, gesteuert durch Musikintensität.
 
 3. Gestalterische und Technische Entscheidungen
-- PNG als Ausgangsbild: Hohe Auflösung, klare Farbflächen und kräftige Kontraste – passend zum Branding von TRACK13.
+- PNG als Ausgangsbild: Hohe Auflösung, klare Farbflächen und kräftige Kontraste, passend zum Branding von TRACK13.
 - Farbsteuerung über HSVAdjust: gezielte Nutzung des Hue-Offsets zur direkten Veränderung der Bildwirkung.
 - Dent-Effekt: eingesetzt für organische Verformungen mit direkter räumlicher Reaktion auf Nutzer:innen.
 - Radial Blur: zur Erzeugung eines visuell auffälligen Effekts, der sich um die Hand zentriert.
 - Audioanalyse: in Echtzeit gekoppelt an die Helligkeit, um Sound visuell erfahrbar zu machen.
-- Feedback-Strukturen: Für fließende Übergänge und weiche Bewegungsmuster.
+- Feedback-Strukturen: Für fliessende Übergänge und weiche Bewegungsmuster.
 - Lag-CHOPs: zur Glättung von abrupten Handbewegungen und angenehmer Visual-Dynamik.
 
 
