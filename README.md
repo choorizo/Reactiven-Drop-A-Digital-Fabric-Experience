@@ -86,6 +86,13 @@ Es hat uns sehr Spass gemacht dieses Projekt zu realisieren und werden es sicher
 
 Cristina Fernandez, Laura Khoury, Joris Lustenberger
 
+[Creative Technology Gruppenabreit.pdf](https://github.com/user-attachments/files/21121786/Creative.Technology.Gruppenabreit.pdf)
+
+
+
+https://youtube.com/shorts/hMOyTkgPa3w?feature=share
+
+
 
 
 In diesem Link ist die Arbeitsdokumentation inklusiv Bilder, Der Film und das Projektfile.
