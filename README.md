@@ -92,6 +92,9 @@ Cristina Fernandez, Laura Khoury, Joris Lustenberger
 
 https://youtube.com/shorts/hMOyTkgPa3w?feature=share
 
+<img width="1280" height="720" alt="PNG creative technology" src="https://github.com/user-attachments/assets/db91a7d8-ef26-402e-b689-807e5808aa4f" />
+
+
 
 
 
